@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projectile World", "Projectile World\Projectile World.csproj", "{3E01EEE0-09FB-4C8B-BB65-F155FF69BA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projectile Library", "Projectile Library\Projectile Library.csproj", "{1C2D6A41-A869-437F-841D-9A7C24028170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E01EEE0-09FB-4C8B-BB65-F155FF69BA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E01EEE0-09FB-4C8B-BB65-F155FF69BA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E01EEE0-09FB-4C8B-BB65-F155FF69BA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E01EEE0-09FB-4C8B-BB65-F155FF69BA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2D6A41-A869-437F-841D-9A7C24028170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2D6A41-A869-437F-841D-9A7C24028170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2D6A41-A869-437F-841D-9A7C24028170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2D6A41-A869-437F-841D-9A7C24028170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFE3CE6-07D1-46A1-9EEB-F65964108F59}
+	EndGlobalSection
+EndGlobal
